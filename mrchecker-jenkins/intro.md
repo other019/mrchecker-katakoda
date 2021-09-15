@@ -1,0 +1,1 @@
+In the course of this tutorial you will set up basic project using mrchecker.
