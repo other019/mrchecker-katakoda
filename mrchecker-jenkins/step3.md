@@ -2,7 +2,7 @@
 ### Jenkinsfile
 The next file we will tak a look is Jenkinsfile. If you are not planing use with Jenkins you can skip this.
 
-Let's open `./Jenkinsfile`{{open}}
+Let's open `my-new-fantastic-project/Jenkinsfile`{{open}}
 
 ### Job parameters
 In section parameters you will find a job parameters which allow users to choose on which grid tests should execute, which group should be executed and on which browser.
